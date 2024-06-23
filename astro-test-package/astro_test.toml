@@ -1,0 +1,15 @@
+[project]
+name = 'astro_test_package'
+version = '0.0.1.'
+authors = [
+    {name = 'Kristina Yakovleva', email = 'loen1x@yandex.ru'}
+]
+description = 'Astro test package'
+readme = 'README.MD'
+requires-python = '>=3.8'
+classifiers = [
+    'Programming Language :: Python :: 3'
+]
+[project.urls]
+Homepage = 
+Issues = 
